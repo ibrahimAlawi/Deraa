@@ -4,11 +4,13 @@ Our website filters inappropriate content in both existing and generated content
 
 ## Data
 ### Video blurring
-We merge multi dataset from roboflow to handle our model (yolov8), The tottal dataset 20,000 images
+We merge multi dataset from roboflow to handle our model (yolov8), The tottal dataset 20,000 images.
 ![robofloww](https://github.com/ibrahimAlawi/Deraa/assets/158778240/1fe5ec6b-79c4-45b2-b81a-7fac0523915e)
 
 ### Text to image
-We used our dataset from kaggle to fine tune our model, 80,000 toxic comments
+
+We used our dataset from kaggle to fine tune our model, 80,000 toxic comments.
+
 ![images (1)](https://github.com/ibrahimAlawi/Deraa/assets/158778240/683e2653-b368-4887-81c9-e028a85fd6c1)
 
 ## How It Works
