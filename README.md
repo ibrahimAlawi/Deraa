@@ -19,9 +19,10 @@ We used our dataset from kaggle to fine tune our model, 160,000 toxic comments.
 - Enter the YouTube URL: Users input the YouTube URL.
 - Process Video: The video is processed to blur inappropriate objects.
 - Show Blurred Video: The video is displayed with the blurred objects.
+![Screenshot_2024-05-30_192200](https://github.com/ibrahimAlawi/Deraa/assets/158778240/125fff3b-d247-46dd-b7a7-b6b1d16fa5bc)  
 
 ### Example
-![Screenshot_2024-05-30_192200](https://github.com/ibrahimAlawi/Deraa/assets/158778240/125fff3b-d247-46dd-b7a7-b6b1d16fa5bc)  
+![image](https://github.com/ibrahimAlawi/Deraa/assets/158778240/727729d5-49cd-4442-a3f5-02371d25a90d)
 
 ### Image Generation Pipeline
 - Enter Text: Users input text.
